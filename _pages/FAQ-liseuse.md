@@ -446,6 +446,14 @@ Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’ap
 
 {% include feedback-button.html question="Remarque importante concernant le rétro-éclairage des liseuses" %}
 
+## Comment saisir des caractères spéciaux sur le clavier de ma liseuse ?
+
+{% include anchor.html id="caractères-spéciaux" label="Comment saisir des caractères spéciaux sur le clavier de ma liseuse." %}
+
+Il existe deux manières d'afficher les caractères spéciaux sur le clavier de la liseuse : 
+* Changer la disposition du clavier avec la touche MAJ (en bas à gauche)
+* Changer la langue du clavier pour accéder à d'autres caractères spéciaux, en appuyant sur la touche EN
+
 {% include anchor.html id="autres-liseuses" label="Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque." %}
 
 ## Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque.
